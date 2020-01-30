@@ -1,2 +1,2 @@
 # Zyx4
-Noobie students 
+Noobie student 
